@@ -1,0 +1,8 @@
+#+author: Aryadev Chavali
+#+date: 2024-07-10
+
+Welcome to my GitHub profile.  Mostly a mirror of my
+[[https://git.aryadevchavali.com][private git server]].  If you want
+the latest updates, go to that instead of this.
+
+Here's [[https://aryadevchavali.com][my website]]
