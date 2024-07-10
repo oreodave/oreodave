@@ -1,7 +1,7 @@
 #+author: Aryadev Chavali
 #+date: 2024-07-10
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=oreodave&theme=vue-dark&show_icons=true&hide_border=true&layout=compact
+[[https://github-readme-stats.vercel.app/api/top-langs/?username=oreodave&theme=vue-dark&show_icons=true&hide_border=true&layout=compact]]
 
 Welcome to my GitHub profile.  Mostly a mirror of my
 [[https://git.aryadevchavali.com][private git server]].  If you want
