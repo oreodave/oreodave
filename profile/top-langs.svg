@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="175.37"
+          width="175.36"
           height="8"
           fill="#555555"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="175.37"
+          x="175.36"
           y="0"
-          width="30.26"
+          width="30.28"
           height="8"
           fill="#c065db"
         />
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="205.63"
+          x="205.64000000000001"
           y="0"
           width="14.81"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="220.44"
+          x="220.45000000000002"
           y="0"
           width="12.69"
           height="8"
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.13"
+          x="233.14000000000001"
           y="0"
           width="12.36"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.49"
+          x="245.5"
           y="0"
           width="14.5"
           height="8"
@@ -198,7 +198,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#c065db" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Emacs Lisp 12.10%
+        Emacs Lisp 12.11%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3fb68b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Common Lisp 4.95%
+        Common Lisp 4.94%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
